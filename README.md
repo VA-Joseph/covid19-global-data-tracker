@@ -1,6 +1,6 @@
 # 🌍 COVID-19 Data Analysis Project
 
-This project is a guided data analysis of the global COVID-19 pandemic, completed as the **final project for Week 8 of the PLP Software Engineering Essentials (Python Module)**. The goal was to apply key Python skills to load, clean, analyze, and visualize real-world data.
+This project is a guided data analysis of the global COVID-19 pandemic, completed as the **final project for Week 8 of the Python Module**. The goal was to apply key Python skills to load, clean, analyze, and visualize real-world data.
 
 ## 📊 Dataset
 
