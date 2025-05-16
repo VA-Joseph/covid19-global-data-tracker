@@ -68,11 +68,11 @@ Key columns used:
 ```
 covid19-data-analysis/
 │
-├── covid19_analysis.ipynb       # Jupyter Notebook with full analysis
-├── owid-covid-data.csv          # Dataset used for the project
-├── covid19_analysis.pdf         # PDF version of the notebook
-├── README.md                    # This file
-└── requirements.txt             # Optional (list of Python dependencies)
+├── covid19_analysis_project.ipynb       # Jupyter Notebook with full analysis
+├── owid-covid-data.csv                  # Dataset used for the project
+├── covid19_analysis_project.pdf         # PDF version of the notebook
+├── README.md                            # This file
+└── requirements.txt                     # Optional (list of Python dependencies)
 ```
 
 ## 📌 Requirements
